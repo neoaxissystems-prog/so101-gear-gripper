@@ -22,3 +22,9 @@ Open-source gear synchronized parallel gripper for the SO-101 robotic arm.
 ## License
 
 MIT
+
+## Support
+
+If this project helped your robotics work, you can support future development here:
+
+[https://ko-fi.com/neoaxissystems](https://ko-fi.com/neoaxissystems)
