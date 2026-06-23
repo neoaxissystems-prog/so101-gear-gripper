@@ -4,30 +4,38 @@ Open-source gear synchronized parallel gripper for the SO-101 robotic arm.
 
 ## Features
 
-- Gear synchronized jaws
-- Single servo drive
-- Parallel motion
-- Centered gripping
-- 3D printable
+* Gear synchronized jaws
+* Single-servo actuation
+* Parallel motion
+* Centered gripping
+* Integrated jaw and gear design
+* 3D printable
+* Optional wrist camera mount
 
 ## CAD Preview
 
 ![CAD](images/cad.png)
 
+## Assembly Guide
+
+![Assembly Guide](images/SO101_Gear_Gripper_Assembly_Poster_Vertical.jpg)
+
 ## Included CAD Files
 
-STEP
-- assembly.step : complete assembly
-- body.step : main gripper body
-- left_jaw.step : left jaw
-- right_jaw.step : right jaw
-- camera_mount.step : camera mount
+### STEP
 
-STL
-- body.stl : main gripper body
-- left_jaw.stl : left jaw
-- right_jaw.stl : right jaw
-- camera_mount.stl : camera mount
+* assembly.step : complete assembly
+* body.step : main gripper body
+* left_jaw.step : left jaw with integrated gear
+* right_jaw.step : right jaw with integrated gear
+* camera_mount.step : camera mount
+
+### STL
+
+* body.stl : main gripper body
+* left_jaw.stl : left jaw with integrated gear
+* right_jaw.stl : right jaw with integrated gear
+* camera_mount.stl : camera mount
 
 ## Printing
 
@@ -46,7 +54,6 @@ Tree supports are strongly recommended.
 
 Normal supports can be difficult to remove and may damage the gear teeth or leave marks on functional surfaces.
 
-
 ## License
 
 MIT
@@ -55,4 +62,6 @@ MIT
 
 If this project helped your robotics work, you can support future development here:
 
-[https://ko-fi.com/neoaxissystems](https://ko-fi.com/neoaxissystems)
+https://ko-fi.com/neoaxissystems
+
+⭐ If you build one, I'd love to see your results.
