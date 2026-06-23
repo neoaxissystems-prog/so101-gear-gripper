@@ -12,7 +12,7 @@ Open-source gear synchronized parallel gripper for the SO-101 robotic arm.
 
 ## CAD Preview
 
-![CAD](images/cad_render.png)
+![CAD](images/cad.png)
 
 ## Included CAD Files
 STEP
