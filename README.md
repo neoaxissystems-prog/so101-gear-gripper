@@ -12,9 +12,14 @@ Open-source gear synchronized parallel gripper for the SO-101 robotic arm.
 * 3D printable
 * Optional wrist camera mount
 
-## CAD Preview
+## Available Designs
+### Single Finger
 
-![CAD](images/cad.png)
+![Single Finger](images/single_finger/cad.png)
+
+### Two Finger
+
+![Two Finger](images/two_finger/cad.png)
 
 ## Assembly Guide
 
