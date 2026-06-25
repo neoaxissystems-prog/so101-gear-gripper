@@ -15,11 +15,11 @@ Open-source gear synchronized parallel gripper for the SO-101 robotic arm.
 ## Available Designs
 ### Single Finger
 
-![Single Finger](images/single/single.png)
+![Single Finger](images/single.png)
 
 ### Two Finger
 
-![Two Finger](images/two/two.png)
+![Two Finger](images/two.png)
 
 ## Assembly Guide
 
